@@ -1,4 +1,7 @@
 node_modules/
 .env
 dist/
-.DS_Store 
+.DS_Store
+q1/
+q2/
+q3/
