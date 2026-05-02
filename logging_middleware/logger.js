@@ -1,5 +1,5 @@
 import { sendLog } from "./api.js";
-import { STACK } from "./constant.js";
+import { STACK } from "./constants.js";
 
 let authToken = null;
 export const setToken = (token) => {
